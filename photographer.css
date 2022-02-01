@@ -1,0 +1,17 @@
+.photographe img {
+    width: 6em; 
+    height: 6em;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.mediadiv img {
+    width: 16em; 
+    height: 16em;
+}
+
+.mediadiv video {
+    width: 16em; 
+    height: 16em;
+    border-radius: 6px;
+}
